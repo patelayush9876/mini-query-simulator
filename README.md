@@ -150,7 +150,7 @@ MIT License. Feel free to modify and use this project!
 ---
 
 ## Contributors
-- **Ayush Patele** (@patelayush9876)
+- **Ayush Patel** (@patelayush9876)
 
 ---
 
